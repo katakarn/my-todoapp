@@ -1,4 +1,4 @@
-Node 18.3.pipeline {
+pipeline {
     agent any
 
     stages {
